@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Storylens App</string>
+    <string name="input_email">Masukkan Email</string>
+    <string name="invalid_email">Format Tidak Valid</string>
+    <string name="input_pass">Masukkan Password</string>
+    <string name="pass_length">Password Minimal 8 Karakter</string>
+    <string name="dont_have_account">Belum Punya Akun?</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="name_required">Nama Wajib Diisi</string>
+    <string name="check_input">Cek Masukkan</string>
+    <string name="name">Nama</string>
+    <string name="preview">Pratinjau</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="logout">Keluar</string>
+    <string name="sign_up">Daftar</string>
+    <string name="already_have_an_account">Sudah Punya Akun?</string>
+    <string name="input_image_first">Masukkan Gambar!</string>
+    <string name="didnt_get_permission">Tidak Medapatkan Izin</string>
+    <string name="setting">Pengaturan</string>
+</resources>
